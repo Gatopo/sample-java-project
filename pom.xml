@@ -9,6 +9,7 @@
   <description>@description@</description>
   <url>@project.url@</url>
 
+  <!-- This should be the line that gives conflicts with both branches. -->
   <licenses>
     <license>
       <name>The Unlicense</name>
