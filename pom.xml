@@ -8,7 +8,8 @@
   <name>@ant.project.name@</name>
   <description>@description@</description>
   <url>@project.url@</url>
-
+  <!-- This is the line that was modified on release branch. -->
+  <!-- But here I am adding more lines that supposelly I worked on my branch. -->
   <licenses>
     <license>
       <name>The Unlicense</name>
